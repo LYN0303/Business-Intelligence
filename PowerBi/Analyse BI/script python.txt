@@ -1,0 +1,31 @@
+import pandas as pd
+
+# Chemins des fichiers Excel
+fichier_ventes_agences = r'C:\Users\xps\Downloads\Power BI\VentesAgence.xlsx'
+fichier_primeur_a = r'C:\Users\xps\Downloads\Power BI\Primeur A.xlsx'
+
+# Lecture des données
+# Utilisation de la fonction read_excel de pandas pour charger les données
+# Chaque DataFrame contiendra les données du fichier correspondant
+
+# Chargement des données de VentesAgences
+    ventes_agences_df = pd.read_excel(fichier_ventes_agences)
+
+
+# Chargement des données de PrimeurA
+    primeur_a_df = pd.read_excel(fichier_primeur_a)
+
+
+# Afficher un aperçu des données pour s'assurer qu'elles sont correctement chargées
+
+print(ventes_agences_df.head())
+print(primeur_a_df.head())
+
+# Sauvegarder les DataFrames chargés dans de nouveaux fichiers Excel 
+
+fichier_ventes_agences_sauvegarde = 'VentesAgences_Sauvegarde.xlsx'
+fichier_primeur_a_sauvegarde = 'PrimeurA_Sauvegarde.xlsx'
+
+    ventes_agences_df.to_excel(fichier_ventes_agences_sauvegarde, index=False)
+    primeur_a_df.to_excel(fichier_primeur_a_sauvegarde, index=False)
+
