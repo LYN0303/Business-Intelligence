@@ -1,1 +1,17 @@
+# Business Intelligence Portfolio
+
+Ce repository regroupe mes projets en **Business Intelligence** réalisés avec **Excel** et **Power BI**.  
+Il illustre ma capacité à analyser des données, construire des **dashboards clairs**, et produire des **insights métiers**.
+
+---
+
+## 📁 Structure du repository
+
+```text
+Business-Intelligence/
+ ├── Excel/        → Dashboards et analyses réalisés avec Excel
+ ├── PowerBi/      → Projets Power BI (.pbix)
+ ├── Screenshots/  → Captures des dashboards
+ └── README.md
+
 
