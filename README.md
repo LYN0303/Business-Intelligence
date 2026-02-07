@@ -16,6 +16,7 @@ Business-Intelligence/
 
 ## 🖼️ Aperçu
 
-![Dashboard Preview](Screenshots/Capture d’écran 2026-02-07 012719.png)
+![Dashboard Preview](Screenshots/dashboard-preview2.png.png)
+
 
 
