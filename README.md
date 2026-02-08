@@ -16,7 +16,8 @@ Business-Intelligence/
 
 ## 🖼️ Aperçu
 
-![Dashboard Preview](Screenshots/dashboard-preview2.png.png)
+![Dashboard Preview](Screenshots/dashboard-preview2.png)
+
 
 
 
