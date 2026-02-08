@@ -14,9 +14,6 @@ Business-Intelligence/
  ├── Screenshots/  → Captures des dashboards
  └── README.md
 
-## 🖼️ Aperçu
-
-![Dashboard Preview](Screenshots/dashboard-preview2.png)
 
 
 
