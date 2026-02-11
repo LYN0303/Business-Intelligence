@@ -14,6 +14,8 @@ Business-Intelligence/
  ├── Screenshots/  → Captures des dashboards
  └── README.md
 
+![Capture d’écran 2026-02-11 141358](https://github.com/user-attachments/assets/7d07fb12-ac00-4e56-a83f-d79ee5763a45)
+
 
 
 
